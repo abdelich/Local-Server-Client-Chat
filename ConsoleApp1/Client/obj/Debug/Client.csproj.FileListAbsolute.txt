@@ -1,0 +1,7 @@
+E:\My Course\(4)Web course\vadim\#1 Учим ШАРП\Учим Шарп #18\ConsoleApp1\Client\bin\Debug\Client.exe.config
+E:\My Course\(4)Web course\vadim\#1 Учим ШАРП\Учим Шарп #18\ConsoleApp1\Client\bin\Debug\Client.exe
+E:\My Course\(4)Web course\vadim\#1 Учим ШАРП\Учим Шарп #18\ConsoleApp1\Client\bin\Debug\Client.pdb
+E:\My Course\(4)Web course\vadim\#1 Учим ШАРП\Учим Шарп #18\ConsoleApp1\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\My Course\(4)Web course\vadim\#1 Учим ШАРП\Учим Шарп #18\ConsoleApp1\Client\obj\Debug\Client.exe
+E:\My Course\(4)Web course\vadim\#1 Учим ШАРП\Учим Шарп #18\ConsoleApp1\Client\obj\Debug\Client.pdb
+E:\My Course\(4)Web course\vadim\#1 Учим ШАРП\Учим Шарп #18\ConsoleApp1\Client\obj\Debug\Client.csprojAssemblyReference.cache
